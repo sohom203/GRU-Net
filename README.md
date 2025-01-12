@@ -31,7 +31,7 @@ This is the official implementation  of "GRU-Net: Gaussian attention aided dense
 ## Authors :nerd_face:
 Ayush Roy<br/>
 Payel Pramanik<br/>
-Soham Ghosal<br/>
+Sohom Ghosal<br/>
 Daria Valenkova<br/>
 Dmitrii Kaplun<br/>
 Ram Sarkar<br/>
